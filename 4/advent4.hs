@@ -3,6 +3,7 @@ import Data.List.Split (splitOn)
 import Data.List.Utils (replace)
 import Data.Char
 
+-- run: cat input.txt | ./advent4
 
 -- Part a
 requiredFields = ["byr","ecl","eyr","hcl","hgt","iyr","pid"]
